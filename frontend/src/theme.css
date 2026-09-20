@@ -1,0 +1,11 @@
+/* claude-qd-309 · 主色 #37474f */
+/* 只改 Element Plus 主题变量；main.js 里在 element-plus css 之后引入 */
+:root {
+  --el-color-primary: #37474f;
+  --el-color-primary-light-3: #737e84;
+  --el-color-primary-light-5: #9ba3a7;
+  --el-color-primary-light-7: #c3c8ca;
+  --el-color-primary-light-8: #d7dadc;
+  --el-color-primary-light-9: #ebeded;
+  --el-color-primary-dark-2: #2c393f;
+}
